@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web based something cool project
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/khillsman3/)
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/indraoli429/)
 <!--
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
