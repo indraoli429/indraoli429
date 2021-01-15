@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Web based something cool project
+- 🌱 I’m currently learning Data Science in Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/indraoli429/)
 <!--
 - 🔭 I’m currently working on 
