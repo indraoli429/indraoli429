@@ -14,3 +14,6 @@
 - ⚡ Fun fact: ...
 
 -->
+<!-- [![IBO's github stats](https://github-readme-stats.vercel.app/api?username=indraoli429&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indraoli429&layout=compact&theme=graywhite)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=indraoli429&theme=nightowl&hide_border=true)](https://git.io/streak-stats) -->
